@@ -12,11 +12,11 @@ jobs:
         uses: actions/checkout@v3
 
       # Clone the NexusMods.App repo
-      - name: Clone NexusMods.App & Make Folders
+      - name: Clone RelicMods & Make Folders
         run: |
           mkdir output
-          git clone https://github.com/Nexus-Mods/NexusMods.App
-          cd NexusMods.App
+          git clone https://github.com/BlossmVale/RelicMods
+          cd RelicMods
           git submodule update --init --recursive
 
       # Set up .NET (make sure to match the .NET version NexusMods.App requires)
@@ -36,7 +36,7 @@ jobs:
       # -o points to some output folder, e.g. $GITHUB_WORKSPACE/output
       - name: Build DB
         run: |
-          cd NexusMods.App/src/NexusMods.App
+          cd RelicMods/src/NexusMods.App
           dotnet run -- as-main game-hashes-db build \
             -p $GITHUB_WORKSPACE \
             -o $GITHUB_WORKSPACE/output
