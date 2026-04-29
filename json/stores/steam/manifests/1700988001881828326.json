@@ -1,0 +1,23 @@
+{
+  "ManifestId": 1700988001881828326,
+  "Files": [
+    {
+      "Path": "Divinity - Original Sin 2.app/Contents/Data/Squirrel.pak",
+      "Size": 142,
+      "Hash": "A552A25949FECAD3BF3ACA0DB95295F336A6B03D",
+      "Chunks": [
+        {
+          "ChunkId": "A552A25949FECAD3BF3ACA0DB95295F336A6B03D",
+          "Checksum": "B2923681",
+          "Offset": 0,
+          "CompressedSize": 112,
+          "UncompressedSize": 142
+        }
+      ]
+    }
+  ],
+  "DepotId": 880641,
+  "CreationTime": "2019-01-28T09:13:59+00:00",
+  "TotalCompressedSize": 112,
+  "TotalUncompressedSize": 142
+}

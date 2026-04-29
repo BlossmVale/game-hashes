@@ -1,0 +1,35 @@
+{
+  "ManifestId": 5028798400746426703,
+  "Files": [
+    {
+      "Path": "DefEd",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "DefEd/Data",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "DefEd/Data/Squirrel.pak",
+      "Size": 142,
+      "Hash": "A552A25949FECAD3BF3ACA0DB95295F336A6B03D",
+      "Chunks": [
+        {
+          "ChunkId": "A552A25949FECAD3BF3ACA0DB95295F336A6B03D",
+          "Checksum": "B2923681",
+          "Offset": 0,
+          "CompressedSize": 112,
+          "UncompressedSize": 142
+        }
+      ]
+    }
+  ],
+  "DepotId": 880640,
+  "CreationTime": "2018-08-22T12:59:51+00:00",
+  "TotalCompressedSize": 112,
+  "TotalUncompressedSize": 142
+}

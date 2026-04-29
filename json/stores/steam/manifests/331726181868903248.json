@@ -1,0 +1,81 @@
+{
+  "ManifestId": 331726181868903248,
+  "Files": [
+    {
+      "Path": "Data",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Data/Localization",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "Data/Localization/dir.txt",
+      "Size": 5,
+      "Hash": "829C3804401B0727F70F73D4415E162400CBE57B",
+      "Chunks": [
+        {
+          "ChunkId": "829C3804401B0727F70F73D4415E162400CBE57B",
+          "Checksum": "0662022C",
+          "Offset": 0,
+          "CompressedSize": 48,
+          "UncompressedSize": 5
+        }
+      ]
+    },
+    {
+      "Path": "Data/Localization/language.lsx",
+      "Size": 573,
+      "Hash": "7CEB5F740974353F0040D7A007DAEC5B8363F93E",
+      "Chunks": [
+        {
+          "ChunkId": "7CEB5F740974353F0040D7A007DAEC5B8363F93E",
+          "Checksum": "07FA9282",
+          "Offset": 0,
+          "CompressedSize": 304,
+          "UncompressedSize": 573
+        }
+      ]
+    },
+    {
+      "Path": "DefEd",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "DefEd/Data",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "DefEd/Data/Localization",
+      "Size": 0,
+      "Hash": "0000000000000000000000000000000000000000",
+      "Chunks": []
+    },
+    {
+      "Path": "DefEd/Data/Localization/language.lsx",
+      "Size": 573,
+      "Hash": "7CEB5F740974353F0040D7A007DAEC5B8363F93E",
+      "Chunks": [
+        {
+          "ChunkId": "7CEB5F740974353F0040D7A007DAEC5B8363F93E",
+          "Checksum": "07FA9282",
+          "Offset": 0,
+          "CompressedSize": 304,
+          "UncompressedSize": 573
+        }
+      ]
+    }
+  ],
+  "DepotId": 717551,
+  "CreationTime": "2019-02-11T10:00:09+00:00",
+  "TotalCompressedSize": 352,
+  "TotalUncompressedSize": 1151
+}

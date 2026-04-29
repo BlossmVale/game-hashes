@@ -1,0 +1,23 @@
+{
+  "ManifestId": 1106905799378873224,
+  "Files": [
+    {
+      "Path": "Divinity - Original Sin 2.app/Contents/Data/Localization/language.lsx",
+      "Size": 582,
+      "Hash": "A1D417A25F704DDA644121449EDEEA9789124096",
+      "Chunks": [
+        {
+          "ChunkId": "A1D417A25F704DDA644121449EDEEA9789124096",
+          "Checksum": "1BD39677",
+          "Offset": 0,
+          "CompressedSize": 304,
+          "UncompressedSize": 582
+        }
+      ]
+    }
+  ],
+  "DepotId": 830771,
+  "CreationTime": "2021-08-25T10:30:08+00:00",
+  "TotalCompressedSize": 304,
+  "TotalUncompressedSize": 582
+}
